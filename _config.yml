@@ -4,17 +4,17 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Arif Ullah Khan
-title: Your job title
+title: Electronics Engineer
 email: arifullah@giki.edu.pk
 phone: +92-3449800377
 website: https://arifullakhan.github.io
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-facebook_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
+twitter_username: Arif_Mandnrkhel
+github_username:  arifullahkhan
+facebook_username: arifkhan014
+instagram_username: iarifullahkhan
+linkedin_username: arifullah-khan
 googlescholor_username: +jekyll
 
 # About Section
