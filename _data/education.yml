@@ -3,7 +3,7 @@
   dates: Aug 2017 - Aig 2020
   qualification: PhD in Electronics Engineering
   quote: >
-    Stugy Emphasis: Wireless Communication and Networking <br> 
+    Study Emphasis: Wireless Communication and Networking <br> 
     PhD thesis: Energy Efficiency in Heterogeneous Cellular Network for 5G.<br>
     Supervisor: Dr. Zia ul Haq Abbas
   description: | # this will include new lines to allow paragraphs
@@ -13,8 +13,8 @@
   dates: Aug 2014 - Aug 2016
   qualification: MS in Electrical Engineering
   quote: >
-    Stugy Emphasis: Wireless Communication and Signal Processing <br> 
-    PhD thesis: Precise Estimation of Soft output for Sphere Decoding Using Modified LAS Algorithm.<br>
+    Study Emphasis: Wireless Communication and Signal Processing <br> 
+    MS thesis: Precise Estimation of Soft output for Sphere Decoding Using Modified LAS Algorithm.<br>
     Supervisor: Prof. Dr. Shahid Khattak
   description: | # this will include new lines to allow paragraphs
     
@@ -23,6 +23,7 @@
   dates: Date Range Aug 2007 - Aug 2012
   qualification: BS in Electronics Engineering
   quote: >
-    Electronnics
+    Study Emphasis: Electronnics and Communication Engineeing <br> 
+    Final year project: Real time tracking, monitoring and controlling system for vehicles.
   description: | # this will include new lines to allow paragraphs
-    Electronnics and Communication
+    
