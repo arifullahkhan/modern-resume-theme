@@ -6,3 +6,11 @@
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Description of qualification
+
+- name: COMSATS University, Abbotabad, Pakistan
+  dates: Aug 2014 - Aug 2016
+  qualification: MS in Electrical Engineering
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
