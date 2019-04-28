@@ -1,7 +1,23 @@
 # Education Template
-- name: Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology, Topi, Pakistan.
-  dates: Aug 2017-Aug 2020
+- name: GIK Institute of Engineering Sciences and Technology, Topi, Pakistan.
+  dates: August 2017-August 2020
   qualification: PhD in Electronics Engineering
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
+
+- name: COMSATS University, Abbotabad, Pakistan.
+  dates: August 2014-August 2016
+  qualification: MS in Electrical Engineering
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
+    
+ - name: Balochistan University of Information Sciences and Technology, Quetta, Pakistan.
+  dates: Aug 2007-Aug 2012
+  qualification: BS in Electronics Engineering
   quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
